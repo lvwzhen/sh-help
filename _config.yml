@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: iSTEPN - STEPN 导航
-keywords: STEPN 导航
-description: STEPN 导航
+title: 上海互助导航
+keywords: 上海互助导航
+description: 上海互助导航
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://istepn.lvwzhen.com/n" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sh-help.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 email: lvwzhen@gmail.com
 
@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 github:
-  repo: lvwzhen/iSTEPN
+  repo: lvwzhen/sh-help
 
 # Exclude from processing.
 # The following items will not be processed, by default.
