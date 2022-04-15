@@ -1,6 +1,15 @@
-- name: 官方网站
+- name: 互助平台
   icon: linecons-star
   links: 
-    - title: 疫情信息共享互助平台
+    - title: 我们来帮你 · 上海抗疫互助
+      url: https://www.helpothers.cn/help/
+      description: 上海抗疫互助
+    - title: Help Shanghai
       url: https://helpshanghai.com/
-      description: 疫情信息共享互助平台
+      description: 疫情封控期物资信息共享互助平台
+- name: 实用工具
+  icon: linecons-star
+  links: 
+    - title: 魔都头像生成器
+      url: https://h5.moo-e.com/roomis/
+      description: 实用的头像生成工具，它能快速为身在魔都的团长和平民生成疫情时期专属微信头像
