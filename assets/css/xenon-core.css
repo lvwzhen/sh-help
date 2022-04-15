@@ -3930,6 +3930,9 @@ body.chat-open #chat {
     .page-container .sidebar-menu .sidebar-menu-inner .main-menu {
         padding-left: 20px;
         padding-right: 20px
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
     }
     .page-container .sidebar-menu .sidebar-menu-inner .logo-env {
         margin-bottom: 0;
@@ -3937,8 +3940,8 @@ body.chat-open #chat {
         padding-bottom: 20px
     }
     .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle {
-        float: right
-        margin-top: 8px;
+        flex:1;
+        text-align: right;
     }
     .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a {
         position: relative;
