@@ -16,7 +16,7 @@
 - name: 物资团购
   icon: linecons-star
   links: 
-    - title: "疫"团GO
+    - title: 疫团GO
       url: https://tg.xuan-niao.com/
       description: 收集整理了上海不同地区的团购信息，有联系方式和具体团购套餐。
 - name: 实用工具
