@@ -25,11 +25,20 @@
     - title: 美团应急帮手
       url: https://mp.weixin.qq.com/s/3Q1PL8vTYHDCMbn79pSNvw
       description: 美团开通了上海地区的“应急帮手”，解决老人、孕妇、残障人士等特色群体的代购需求。
+    - title: 京东生活防疫专区
+      url: https://prodev.m.jd.com/mall/active/34asxvG5PDbf64t2sMRogphYmhz8/index.html?_ts=1649440498250&utm_source=weixin&utm_medium=weixin&utm_campaign=t_1000072672_17053_001&utm_term=Wxmoments&ad_od=share&utm_user=plusmember&gx=RnFskjJbOjSLzNRP--twX2E5eJQRfGUa9r4w&PTAG=17053.1.1
+      description: 京东生活防疫专区
+    - title: 拼多多上海专供团购
+      url: https://mobile.yangkeduo.com/attendance.html?_wv=41729&_wvx=10&_x_share_id=bunz0kr1mkojzp7g4oxq3gowwsxc11ej&id=182011&type=1&refer_share_id=35a9d5dvfmfsn3lc2lxxwhc5oj2waiw8&refer_share_uin=BQSLZWLKJ5HZYOJL4TO7T3PS6Y_GEXDA&refer_share_channel=message%C2%AC_from_share=1
+      description: 48小时送达、上海专供、持续更新
+    - title: 饿了么 - 应急特需
+      url: https://mp.weixin.qq.com/s/IG2wlCb9_aoP3lAvoedr1A
+      description: 特别照顾独居老人、孕妇、婴幼儿、残障人士等重点人群，尽可能去努力帮助解决问题，优先安排订单服务，联络药店、超市等。
     - title: 疫团GO
       url: https://tg.xuan-niao.com/
       description: 收集整理了上海不同地区的团购信息，有联系方式和具体团购套餐。
     - title: 上海跑腿师傅信息
-      url: https://tg.xuan-niao.com/
+      url: https://www.kdocs.cn/l/cgbo1hb6vn3f
       description: 收集整理了上海不同地区的跑腿师傅联系方式，跑腿费从50-200不等。
 - name: 紧急医疗
   icon: linecons-user
