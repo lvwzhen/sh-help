@@ -13,4 +13,4 @@ layout: about
 
 ❤️ 上海加油！
 
-> 特别感谢： [ViggoZ](https://github.com/WebStackPage/WebStackPage.github.io) 、[0xl2oot ](https://github.com/0xl2oot/webstack-jekyll)
+特别感谢： [ViggoZ](https://github.com/WebStackPage/WebStackPage.github.io) 、[0xl2oot ](https://github.com/0xl2oot/webstack-jekyll)
