@@ -3938,6 +3938,7 @@ body.chat-open #chat {
     }
     .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle {
         float: right
+        margin-top: 8px;
     }
     .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a {
         position: relative;
