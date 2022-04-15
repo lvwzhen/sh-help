@@ -16,6 +16,15 @@
 - name: 实用工具
   icon: linecons-star
   links: 
+    - title: 上海小区解封预测
+      url: https://www.vigeotec.com/sh
+      description: 通过上海卫健委公布的小区确诊时间，预测小区解封时间
     - title: 魔都头像生成器
       url: https://h5.moo-e.com/roomis/
       description: 实用的头像生成工具，它能快速为身在魔都的团长和平民生成疫情时期专属微信头像
+- name: 物资团购
+  icon: linecons-star
+  links: 
+    - title: "疫"团GO
+      url: https://tg.xuan-niao.com/
+      description: 收集整理了上海不同地区的团购信息，有联系方式和具体团购套餐。
