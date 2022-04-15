@@ -17,7 +17,7 @@
       url: https://projects.thepaper.cn/interactive/2022/03/helpyizhong/index.html
       description: 如果遇到困难需要求助，澎湃新闻会努力为您寻找答案、办法或转递相关部门解决。
 - name: 物资团购
-  icon: linecons-star
+  icon: linecons-truck
   links: 
     - title: 京东到家-保供生鲜套餐
       url: https://mp.weixin.qq.com/s/LoRMranFSg_c0z2VDAM4RA
@@ -32,7 +32,7 @@
       url: https://tg.xuan-niao.com/
       description: 收集整理了上海不同地区的跑腿师傅联系方式，跑腿费从50-200不等。
 - name: 紧急医疗
-  icon: linecons-star
+  icon: linecons-user
   links: 
     - title: 腾讯医典 - 急救专栏
       url: https://h5.baike.qq.com/mobile/emergency.html?VNK=b180740c
@@ -41,7 +41,7 @@
       url: https://prodev.m.jd.com/mall/active/31QZUFuGWMTKKLvbi9gyGuZcW8ze/index.html?PTAG=17053.1.1#/
       description: 可以登记癫痫、支气管、抑郁症等慢性病购药需求，另外有7x24小时聚焦用药指导。
 - name: 实用工具
-  icon: linecons-star
+  icon: linecons-lightbulb
   links: 
     - title: 上海小区解封预测
       url: https://www.vigeotec.com/sh
