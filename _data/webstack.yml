@@ -7,6 +7,12 @@
     - title: Help Shanghai
       url: https://helpshanghai.com/
       description: 疫情封控期物资信息共享互助平台
+    - title: 微博抗疫求助超话
+      url: https://weibo.com/p/10080889902a1e60cd81187b008223d86da809/super_index
+      description: 微博抗疫求助超话
+    - title: 澎湃求助平台
+      url: https://projects.thepaper.cn/interactive/2022/03/helpyizhong/index.html
+      description: 如果您碰到了什么困难或有疑惑需要求助，澎湃新闻将努力为您寻找答案、办法或转递相关部门解决。
 - name: 实用工具
   icon: linecons-star
   links: 
