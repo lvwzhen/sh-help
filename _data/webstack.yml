@@ -13,6 +13,12 @@
     - title: 澎湃求助平台
       url: https://projects.thepaper.cn/interactive/2022/03/helpyizhong/index.html
       description: 如果您碰到了什么困难或有疑惑需要求助，澎湃新闻将努力为您寻找答案、办法或转递相关部门解决。
+- name: 物资团购
+  icon: linecons-star
+  links: 
+    - title: "疫"团GO
+      url: https://tg.xuan-niao.com/
+      description: 收集整理了上海不同地区的团购信息，有联系方式和具体团购套餐。
 - name: 实用工具
   icon: linecons-star
   links: 
@@ -22,9 +28,6 @@
     - title: 魔都头像生成器
       url: https://h5.moo-e.com/roomis/
       description: 实用的头像生成工具，它能快速为身在魔都的团长和平民生成疫情时期专属微信头像
-- name: 物资团购
-  icon: linecons-star
-  links: 
-    - title: "疫"团GO
-      url: https://tg.xuan-niao.com/
-      description: 收集整理了上海不同地区的团购信息，有联系方式和具体团购套餐。
+    - title: 疫情确诊同行查询工具
+      url: https://h5.peopleapp.com/gjzwsearch/index.html
+      description: 输入时间、地区或者火车车次，可以查询疫情确诊同行的相关信息
