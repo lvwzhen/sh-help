@@ -16,6 +16,10 @@
     - title: 澎湃求助平台
       url: https://projects.thepaper.cn/interactive/2022/03/helpyizhong/index.html
       description: 如果遇到困难需要求助，澎湃新闻会努力为您寻找答案、办法或转递相关部门解决。
+    - title: 魔都防疫指南3.3
+      url: https://shimo.im/docs/0l3NV5lEwOfpQx3R/read
+      description: 非常详细的防疫指南，包含防疫、医疗求助、法律援助、宠物求助等。
+    
 - name: 物资团购
   icon: linecons-truck
   links: 
@@ -40,6 +44,9 @@
     - title: 上海跑腿师傅信息
       url: https://www.kdocs.cn/l/cgbo1hb6vn3f
       description: 收集整理了上海不同地区的跑腿师傅联系方式，跑腿费从50-200不等。
+    - title: 上海各类物资采购渠道
+      url: https://docs.qq.com/sheet/DSnBQbFFidmNQTFlQ?tab=BB08J2&scode=
+      description: 包含一份起送、生鲜、半成品&熟食、乳制品&奶粉、团餐预定、应急特需等物资采购渠道。
 - name: 紧急医疗
   icon: linecons-user
   links: 
@@ -68,5 +75,11 @@
       url: https://docs.qq.com/doc/DRU9rbm1QTEdJYkpm?groupUin=lmeXyT2w352%252BDBH6YhrYyw%253D%253D&dver&ADUIN=1274691349&ADSESSION=1649436539&ADTAG=CLIENT.QQ.5887_.0&ADPUBNO=27211&jumpuin=1274691349
       description: 提供上海宠物互助平台，由上海志愿者维护，包含宠物寄养、隔离处置、法律保护等互助指南
     - title:  上海12345
-      url: hhttp://www.sh12345.gov.cn/
+      url: http://www.sh12345.gov.cn/
       description: 上海市民热线
+    - title:  上海疫情数据趋势查询
+      url: https://sh.codeboy.me
+      description: 上海疫情数据趋势查询
+    - title:  查询上海小区感染记录
+      url: https://chenfan.info/
+      description: 方便用户查询上海卫健委发布的小区感染日期，并对解封时间进行预测。
