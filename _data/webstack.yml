@@ -83,6 +83,22 @@
     - title:  上海疫情数据趋势查询
       url: https://sh.codeboy.me
       description: 上海疫情数据趋势查询
-    - title:  查询上海小区感染记录
+    - title: 查询上海小区感染记录
       url: https://chenfan.info/
       description: 方便用户查询上海卫健委发布的小区感染日期，并对解封时间进行预测。
+- name: 开源项目
+  icon: linecons-pencil
+  links: 
+    - title: 叮咚买菜抢菜插件
+      url: https://github.com/Skykai521/DingDongHelper
+      description: 叮咚买菜抢菜插件，只能用于安卓手机。
+    - title: robFood 抢菜辅助脚本
+      url: https://github.com/sean529/robFood
+      description: 基于 Auto.js Pro 实现的抢菜辅助脚本。
+    - title: 买菜助手
+      url: https://github.com/universeindream/MaiCaiAssistant
+      description: 支持美团买菜、叮咚买菜、盒马买菜，可定时执行抢菜。
+    - title: 中国新型冠状病毒肺炎地级市疫情图
+      url: https://github.com/lispc/covid19-citymap-china
+      description: 通过新浪新闻的 API 获得 现存 病例数，在高德地图上给每个城市绘制不同颜色。点击地图可以显示每个城市的具体数字。
+
