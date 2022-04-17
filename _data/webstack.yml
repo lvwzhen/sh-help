@@ -59,6 +59,9 @@
     - title: 京东大药房 - 药品求助登记平台
       url: https://prodev.m.jd.com/mall/active/31QZUFuGWMTKKLvbi9gyGuZcW8ze/index.html?PTAG=17053.1.1#/
       description: 可以登记癫痫、支气管、抑郁症等慢性病购药需求，另外有7x24小时聚焦用药指导。
+    - title: 家庭常备药清单 - 丁香医生
+      url: https://m.dxy.com/article/59222
+      description: 丁香医生整理出来的家庭常备药清单，包括退烧、化痰、抗过敏、腹泻等常见病的用药指导。
 - name: 实用工具
   icon: linecons-lightbulb
   links: 
