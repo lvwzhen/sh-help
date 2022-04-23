@@ -22,6 +22,10 @@
     - title: 上海互助/求助渠道（微信版）
       url: https://mp.weixin.qq.com/s/hkJJWUB4JivxArupClb2TQ
       description: 微信公众号上的防疫互助指南，内容大多为公众号文章。
+    - title: 守沪者志愿服务
+      url: https://mp.weixin.qq.com/mp/homepage?__biz=Mzg4Njc2NDczMw==&hid=1&sn=ad1d0340f240a9666f604139b739e09e&scene=1&devicetype=iOS15.2.1&version=1800123f&lang=zh_CN&nettype=WIFI&ascene=0&fontScale=100&wx_header=3
+      description: 「守沪者」是因为上海疫情聚在一起的民间志愿者，包含上海乃至全国的大学生、医护人员、政府工作人员和社会热心人士。
+    
     
 - name: 物资团购
   icon: linecons-truck
